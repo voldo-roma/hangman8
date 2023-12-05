@@ -12,7 +12,7 @@ while True:
             print(f"Good guess! {guess} is in the word.")
             # if I break, it shuts it down, leaving for testing
         else:
-            # Step 3: Inform the user if the guess is not in the word
+            # Inform the user if the guess is not in the word
             print(f"Sorry, {guess} is not in the word. Try again.")
     else:
         print("Invalid letter. Please, enter a single alphabetical character.")
