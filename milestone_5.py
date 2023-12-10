@@ -1,7 +1,7 @@
 #%%
-#%%
+#Milestone 5 for AiCore code review
 import random
-
+# main class - core of the project
 class Hangman:
     def __init__(self, word_list, num_lives=5):
         self.word_list = word_list
@@ -43,7 +43,7 @@ class Hangman:
 
     def is_game_over(self):
         return self.num_lives <= 0 or '_' not in self.word_guessed
-
+#function to initiate the game - indicate game over/game won
 def play_game(word_list):
     game = Hangman(word_list)
     while not game.is_game_over():
@@ -53,9 +53,8 @@ def play_game(word_list):
         print("Congratulations! You won!")
     else:
         print(f"You lost! The word was {game.word}")
-
+# add a list of words - include shorter ones for testing.  
 if __name__ == '__main__':
     word_list = ['apple', 'banana', 'orange', 'pear', 'strawberry', 'watermelon','me','you','zelda']
     play_game(word_list)
-
 # %%
