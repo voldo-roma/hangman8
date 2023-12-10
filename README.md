@@ -13,19 +13,10 @@ Hangman is a classic game in which a player thinks of a word and the other playe
 This is an implementation of the Hangman game, where the computer thinks of a word and the user tries to guess it. 
 Putting it all together
 
-
 Objective
-The app allows users to play a game of Hangman with 3 lives.
+The app allows users to play a game of Hangman with 5 lives.
 
-What's under the hood? 
-## This is a project tracker for Hangman project consisting of 5 milestones. 
-1. Set up the environment
-2. Create the variables for the game
-3. Check if the guessed character is in the word
-4. Create the Game class
-5. Put it all together
-
-To play, just run the script (ADD) 
+To play, just run the milestone_5 file.
 
 ### Disclaimer. 
 This is a partial fulfillment of the AiCore Cloud Engineering course requirements. Itended for learning purposes only.
