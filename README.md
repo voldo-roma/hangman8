@@ -1,4 +1,23 @@
-# Hangman
+# The Hangman Project
+
+[What is Hangman?]([https://link-url-here.org](https://chschipper.com/2019/12/from-history-to-history-class-the-origin-of-classroom-games/#:~:text=No%20name%20in%20the%20world,Rite%20of%20Words%20and%20Life.%E2%80%9D))
+
+
+### Run draft_milestone_4.py to check out the functionality
+
+"No name in the world is more fitting than the one bestowed upon the game of Hangman, which originated in Europe during the 17th century, and was “played” when a prisoner facing death demanded the “Rite of Words and Life.”
+The prisoner was strung up over a 5–legged stand, then a blank word would be presented by the executioner. With each incorrect guess, a leg would be knocked away. If the word was guessed correctly, the prisoner would be set free, if not, once all 5 legs were chopped, he would hang. This “game” definitely had dark beginnings, but in time, has grown to a much more fun-loving game kids of all ages." 
+
+- Game Rules
+Hangman is a classic game in which a player thinks of a word and the other player tries to guess that word within a certain amount of attempts.
+This is an implementation of the Hangman game, where the computer thinks of a word and the user tries to guess it. 
+Putting it all together
+
+
+Objective
+The app allows users to play a game of Hangman with 3 lives.
+
+What's under the hood? 
 ## This is a project tracker for Hangman project consisting of 5 milestones. 
 1. Set up the environment
 2. Create the variables for the game
@@ -6,20 +25,7 @@
 4. Create the Game class
 5. Put it all together
 
-## TASK 1 for README: add documentation to your GitHub README file. You can refer to the relevant lesson in the prerequisites for this task for more information.
+To play, just run the script (ADD) 
 
-At minimum, your README file should contain the following information:
-
-Project Title
-Table of Contents, if the README file is long
-A description of the project: what it does, the aim of the project, and what you learned
-Installation instructions
-Usage instructions
-File structure of the project
-License information
-You don't have to write all of this at once, but make sure to update your README file as you go along, so that you don't forget to add anything.
-
-Putting it all together
-- Game Rules
-Hangman is a classic game in which a player thinks of a word and the other player tries to guess that word within a certain amount of attempts.
-This is an implementation of the Hangman game, where the computer thinks of a word and the user tries to guess it. 
+### Disclaimer. 
+This is a partial fulfillment of the AiCore Cloud Engineering course requirements. Itended for learning purposes only.
