@@ -1,6 +1,6 @@
 # The Hangman Project
 
-[What is Hangman?]([https://link-url-here.org](https://chschipper.com/2019/12/from-history-to-history-class-the-origin-of-classroom-games/#:~:text=No%20name%20in%20the%20world,Rite%20of%20Words%20and%20Life.%E2%80%9D)
+[What is Hangman?]([https://link-url-here.org](https://chschipper.com/2019/12/from-history-to-history-class-the-origin-of-classroom-games/#:~:text=No%20name%20in%20the%20world,Rite%20of%20Words%20and%20Life.%E2%80%9D))
 
 
 "No name in the world is more fitting than the one bestowed upon the game of Hangman, which originated in Europe during the 17th century, and was “played” when a prisoner facing death demanded the “Rite of Words and Life.”
@@ -13,7 +13,7 @@ Putting it all together
 
 
 Objective
-We wanted to create an app that would 
+The app allows users to play a game of Hangman with 3 lives.
 
 What's under the hood? 
 ## This is a project tracker for Hangman project consisting of 5 milestones. 
@@ -23,11 +23,7 @@ What's under the hood?
 4. Create the Game class
 5. Put it all together
 
-6. 
-What it does, the aim of the project, and what you learned
-Installation instructions
-Usage instructions
-File structure of the project
-License information
+To play, just run the script (ADD) 
 
-
+### Disclaimer. 
+This is a partial fulfillment of the AiCore Cloud Engineering course requirements. Itended for learning purposes only.
