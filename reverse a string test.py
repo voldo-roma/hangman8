@@ -6,4 +6,3 @@ def reversed(s):
     while l < r:
         s[l], s[r] = s[r],s[l]
     return s
-# %%
