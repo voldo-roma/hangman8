@@ -40,7 +40,7 @@ class Hangman:
             print("Congratulations! You guessed the word.")
             
     def is_game_over(self):
-        return self.num_lives <= 0 or ''.join(self.word_guessed) == self.word
+        return self.num_lives == 0 or ''.join(self.word_guessed) == self.word
 
     def display_word(self):
         return ' '.join(self.word_guessed)
@@ -103,7 +103,7 @@ def play_game(word_list):
         print("Congratulations! You guessed the word.")
     else:
         print(f"Game over. The word was '{game.word}'. Better luck next time!")
-
+## this should call the play_game
 if __name__ == "__main__":
     word_list = ["aicore", "python", "hangman"]
     play_game(word_list)
